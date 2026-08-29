@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tek
 - 👀 I’m interested in ... Programming, Level Designing, Drawing & Writing
-- 🌱 I’m currently studying ...
+- 🌱 I’m currently studying ... Typescript programming and how to make a 3D experience using the A-Frame framework with HTML & JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[
 vsherron237@gmail.com]
